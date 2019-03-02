@@ -1,0 +1,115 @@
+{
+    
+    "salesRankingsList": [
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "0800893011",
+            "campanyName": "国家电网公司",
+            "totalSalePeriod": 5632140.61,
+            "totalSaleRankings": 1,
+            "totalSalePriorPeriod": 742406.8,
+            "totalSalePriorRankings": 9,
+            "MOM": "8",
+            "MOMTrend": "1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "6117685719",
+            "campanyName": "江苏省财政厅采购处",
+            "totalSalePeriod": 1946748.42,
+            "totalSaleRankings": 2,
+            "totalSalePriorPeriod": 3927395.05,
+            "totalSalePriorRankings": 1,
+            "MOM": "1",
+            "MOMTrend": "-1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "7001436564",
+            "campanyName": "江苏省财政厅采购",
+            "totalSalePeriod": 1797576.92,
+            "totalSaleRankings": 3,
+            "totalSalePriorPeriod": 0,
+            "MOM": "0",
+            "MOMTrend": "-1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "7055198886",
+            "campanyName": "中国铁路济南局集团",
+            "totalSalePeriod": 1753506.31,
+            "totalSaleRankings": 4,
+            "totalSalePriorPeriod": 365923.62,
+            "totalSalePriorRankings": 18,
+            "MOM": "14",
+            "MOMTrend": "1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "6106991360",
+            "campanyName": "广东省政府采购中心",
+            "totalSalePeriod": 1432236,
+            "totalSaleRankings": 5,
+            "totalSalePriorPeriod": 612818,
+            "totalSalePriorRankings": 10,
+            "MOM": "5",
+            "MOMTrend": "1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "6132719368",
+            "campanyName": "国网四川省电力公司",
+            "totalSalePeriod": 1086593.3,
+            "totalSaleRankings": 6,
+            "totalSalePriorPeriod": 1121386.46,
+            "totalSalePriorRankings": 4,
+            "MOM": "2",
+            "MOMTrend": "-1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "6228266752",
+            "campanyName": "深圳平安综合金融服务有限公司",
+            "totalSalePeriod": 1054533.12,
+            "totalSaleRankings": 7,
+            "totalSalePriorPeriod": 829177.61,
+            "totalSalePriorRankings": 7,
+            "MOM": "0",
+            "MOMTrend": "0.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "7070233301",
+            "campanyName": "中国农业银行股份有限公司山东省分行财务会计部",
+            "totalSalePeriod": 946989.25,
+            "totalSaleRankings": 8,
+            "totalSalePriorPeriod": 394110.04,
+            "totalSalePriorRankings": 17,
+            "MOM": "9",
+            "MOMTrend": "1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "6145606106",
+            "campanyName": "深圳市政府采购中心",
+            "totalSalePeriod": 769539.63,
+            "totalSaleRankings": 9,
+            "totalSalePriorPeriod": 129270.12,
+            "totalSalePriorRankings": 43,
+            "MOM": "34",
+            "MOMTrend": "1.0"
+        },
+        {
+            "saleDate": "Nov 26, 2018 12:00:00 AM",
+            "custNo": "7063167611",
+            "campanyName": "中国铁路太原局集团有限公司商城",
+            "totalSalePeriod": 706467.96,
+            "totalSaleRankings": 10,
+            "totalSalePriorPeriod": 764247.65,
+            "totalSalePriorRankings": 8,
+            "MOM": "2",
+            "MOMTrend": "-1.0"
+        }
+    ],
+    "success": true
+}
